@@ -317,3 +317,6 @@ $ pip install pymysql
 SQLALCHEMY_DATABASE_URI  =  'mysql+pymysql://root:password@localhost/database';
 ```
 - For more standard commands: the [Digital Ocean MySQL tutorial](https://www.digitalocean.com/community/tutorials/a-basic-mysql-tutorial) is useful.
+
+
+(http://flask-cheat-sheet.herokuapp.com/)
